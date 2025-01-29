@@ -6,7 +6,13 @@ sections:
     title: Hi! I'm Edgar
     subtitle: 1st Year Illinois Tech Information Technology Student
     text: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Connect With Me On LinkedIn!
+        url: 'https://www.linkedin.com/in/chavarria516/'
+        size: medium
+        variant: text
+        color: primary
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
