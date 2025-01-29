@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Hi! I'm Edgar
-    subtitle: 1st Year Illinois Tech Information Technology Student
+    subtitle: 1st Year Illinois Tech Information Technology and Managment Student
     text: ''
     actions:
       - type: Button
