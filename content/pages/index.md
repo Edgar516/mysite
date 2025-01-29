@@ -11,7 +11,7 @@ sections:
         label: Connect With Me On LinkedIn!
         url: 'https://www.linkedin.com/in/chavarria516/'
         size: large
-        variant: outlined
+        variant: contained
         color: primary
   - type: CardsSection
     title: Cards Section Component
