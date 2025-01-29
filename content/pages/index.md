@@ -10,7 +10,7 @@ sections:
       - type: Button
         label: Connect With Me On LinkedIn!
         url: 'https://www.linkedin.com/in/chavarria516/'
-        size: medium
+        size: large
         variant: text
         color: primary
   - type: CardsSection
