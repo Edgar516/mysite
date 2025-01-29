@@ -11,9 +11,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
-    image:
-      type: Image
-      altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
