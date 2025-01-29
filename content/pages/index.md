@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Edgar Chavarria
+    title: ''
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: ''
     actions: []
