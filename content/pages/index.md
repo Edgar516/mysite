@@ -2,14 +2,6 @@
 title: Home
 type: Page
 sections:
-  - type: HeroSection
-    title: ''
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: ''
-    actions: []
-    image:
-      type: Image
-      altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
