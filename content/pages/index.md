@@ -12,7 +12,7 @@ sections:
         url: 'https://www.linkedin.com/in/chavarria516/'
         size: large
         variant: text
-        color: inherit
+        color: secondary
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
