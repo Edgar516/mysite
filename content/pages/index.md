@@ -39,7 +39,7 @@ sections:
         image:
           type: Image
           url: /images/logooo1.png
-          altText: Item image
+          altText: Sentinel Logo
         actions:
           - type: Button
             label: Learn More
