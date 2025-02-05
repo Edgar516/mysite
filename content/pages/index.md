@@ -79,10 +79,22 @@ sections:
             color: primary
       - type: Card
         title: Cook County Summer IT Intern
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Facilitated property sales in collaboration with Cook County Land
+          Bank
+
+
+          *   Managed the process of finalizing property transactions and deed
+          distribution to customers
+
+
+          *   Regularly updated and enhanced PowerPoint presentations to improve
+          data visualization
+
+
+          *   Redesigned presentation content to increase engagement and
+          information retentio
+
         image:
           type: Image
           url: /images/CookCountyGovernmentLogo.png
