@@ -55,7 +55,7 @@ sections:
           explicabo.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/BankOfAmericaLogo.png
           altText: Item image
         actions:
           - type: Button
