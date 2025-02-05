@@ -14,7 +14,7 @@ sections:
         variant: contained
         color: primary
   - type: CardsSection
-    title: Cards Section Component
+    title: Cer
     subtitle: ''
     items:
       - type: Card
