@@ -43,7 +43,7 @@ sections:
         actions:
           - type: Button
             label: Learn More
-            url: /
+            url: 'https://www.sentinel.com'
             size: medium
             variant: text
             color: primary
