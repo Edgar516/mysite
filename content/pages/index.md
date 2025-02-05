@@ -38,8 +38,7 @@ sections:
 
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Sentinel_Logo_RGBFA-1024x289.png
           altText: Item image
         actions:
           - type: Button
