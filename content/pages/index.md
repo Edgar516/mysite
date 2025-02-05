@@ -33,11 +33,11 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Third Card Title
         image:
           type: Image
-          url: /images/mui-5.svg
-          altText: Second item image
+          url: /images/ts.svg
+          altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -48,11 +48,11 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Second Card Title
         image:
           type: Image
-          url: /images/ts.svg
-          altText: Third item image
+          url: /images/mui-5.svg
+          altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
