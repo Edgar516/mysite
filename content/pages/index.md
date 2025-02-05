@@ -38,7 +38,7 @@ sections:
 
         image:
           type: Image
-          url: /images/Sentinel_Logo_RGBFA-1024x289.png
+          url: /images/logooo1.png
           altText: Item image
         actions:
           - type: Button
