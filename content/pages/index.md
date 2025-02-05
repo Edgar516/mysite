@@ -72,7 +72,8 @@ sections:
         actions:
           - type: Button
             label: Learn More
-            url: /
+            url: >-
+              https://about.bankofamerica.com/en/making-an-impact/student-leaders
             size: medium
             variant: text
             color: primary
