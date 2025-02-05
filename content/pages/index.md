@@ -14,7 +14,7 @@ sections:
         variant: contained
         color: primary
   - type: CardsSection
-    title: ExperienceExperience
+    title: Experience
     subtitle: ''
     items:
       - type: Card
