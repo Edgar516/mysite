@@ -14,7 +14,7 @@ sections:
         variant: contained
         color: primary
   - type: CardsSection
-    title: Cer
+    title: Licenses & certifications
     subtitle: ''
     items:
       - type: Card
