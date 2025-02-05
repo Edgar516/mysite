@@ -18,7 +18,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Item Title
+        title: Contract IT Intern
         text: >+
           *   Executed successful replacement of Cisco network switches across
           multiple school facilities
