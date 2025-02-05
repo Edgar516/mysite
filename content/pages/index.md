@@ -19,10 +19,18 @@ sections:
     items:
       - type: Card
         title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          \- Executed successful replacement of Cisco network switches across
+          multiple school facilities
+
+          \- Implemented comprehensive upgrades to school network
+          infrastructures, enhancing performance and reliability
+
+          \- Collaborated effectively with cross-functional teams to ensure
+          timely project completion
+
+          \- Contributed to the improvement of network security and stability in
+          educational environments
         image:
           type: Image
           url: >-
