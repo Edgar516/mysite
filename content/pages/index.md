@@ -49,10 +49,22 @@ sections:
             color: primary
       - type: Card
         title: Digital Ambassador
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Promoted digital banking solutions to customers, driving the
+          adoption of online and mobile banking platforms
+
+
+          *   Provided personalized guidance and support for customers
+          navigating digital banking tools
+
+
+          *   Contributed to bank initiatives aimed at enhancing financial
+          literacy and digital fluency among clientele
+
+
+          *   Assisted customers in setting up and troubleshooting digital
+          banking accounts and applications
+
         image:
           type: Image
           url: /images/BankOfAmericaLogo.png
