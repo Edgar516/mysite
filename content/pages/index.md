@@ -93,7 +93,7 @@ sections:
 
 
           *   Redesigned presentation content to increase engagement and
-          information retentio
+          information retention
 
         image:
           type: Image
